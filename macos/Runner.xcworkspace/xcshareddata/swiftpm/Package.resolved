@@ -1,0 +1,24 @@
+{
+  "originHash" : "0d23c7be1c7f785bc197421a6285de64ead2bbd4dfdb2caefc31a52fff7f79c7",
+  "pins" : [
+    {
+      "identity" : "swift-cpu-info",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/p-x9/swift-cpu-info",
+      "state" : {
+        "revision" : "2bd3c7f1e8b4143615cbd286d844f0e4d47a33b3",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "swift-sysctl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/p-x9/swift-sysctl.git",
+      "state" : {
+        "revision" : "b25d922f24b52671821949b9afc6a6c2ea0b7daf",
+        "version" : "0.5.0"
+      }
+    }
+  ],
+  "version" : 3
+}
