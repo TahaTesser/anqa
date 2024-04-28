@@ -7,23 +7,22 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		047EE5F72BDE42AC005E17B3 /* anqaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047EE5F62BDE42AC005E17B3 /* anqaApp.swift */; };
-		047EE5F92BDE42AC005E17B3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 047EE5F82BDE42AC005E17B3 /* ContentView.swift */; };
-		047EE5FB2BDE42AD005E17B3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047EE5FA2BDE42AD005E17B3 /* Assets.xcassets */; };
-		047EE5FF2BDE42AD005E17B3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 047EE5FE2BDE42AD005E17B3 /* Preview Assets.xcassets */; };
+		04312B6C2BDE6997003204F3 /* anqaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04312B6B2BDE6997003204F3 /* anqaApp.swift */; };
+		04312B6E2BDE6997003204F3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04312B6D2BDE6997003204F3 /* ContentView.swift */; };
+		04312B702BDE6998003204F3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04312B6F2BDE6998003204F3 /* Assets.xcassets */; };
+		04312B732BDE6998003204F3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 04312B722BDE6998003204F3 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		047EE5F32BDE42AC005E17B3 /* anqa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = anqa.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		047EE5F62BDE42AC005E17B3 /* anqaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = anqaApp.swift; sourceTree = "<group>"; };
-		047EE5F82BDE42AC005E17B3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		047EE5FA2BDE42AD005E17B3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		047EE5FC2BDE42AD005E17B3 /* anqa.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = anqa.entitlements; sourceTree = "<group>"; };
-		047EE5FE2BDE42AD005E17B3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		04312B682BDE6997003204F3 /* anqa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = anqa.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		04312B6B2BDE6997003204F3 /* anqaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = anqaApp.swift; sourceTree = "<group>"; };
+		04312B6D2BDE6997003204F3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		04312B6F2BDE6998003204F3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		04312B722BDE6998003204F3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		047EE5F02BDE42AC005E17B3 /* Frameworks */ = {
+		04312B652BDE6997003204F3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -33,38 +32,37 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		047EE5EA2BDE42AC005E17B3 = {
+		04312B5F2BDE6997003204F3 = {
 			isa = PBXGroup;
 			children = (
-				047EE5F52BDE42AC005E17B3 /* anqa */,
-				047EE5F42BDE42AC005E17B3 /* Products */,
+				04312B6A2BDE6997003204F3 /* anqa */,
+				04312B692BDE6997003204F3 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		047EE5F42BDE42AC005E17B3 /* Products */ = {
+		04312B692BDE6997003204F3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				047EE5F32BDE42AC005E17B3 /* anqa.app */,
+				04312B682BDE6997003204F3 /* anqa.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		047EE5F52BDE42AC005E17B3 /* anqa */ = {
+		04312B6A2BDE6997003204F3 /* anqa */ = {
 			isa = PBXGroup;
 			children = (
-				047EE5F62BDE42AC005E17B3 /* anqaApp.swift */,
-				047EE5F82BDE42AC005E17B3 /* ContentView.swift */,
-				047EE5FA2BDE42AD005E17B3 /* Assets.xcassets */,
-				047EE5FC2BDE42AD005E17B3 /* anqa.entitlements */,
-				047EE5FD2BDE42AD005E17B3 /* Preview Content */,
+				04312B6B2BDE6997003204F3 /* anqaApp.swift */,
+				04312B6D2BDE6997003204F3 /* ContentView.swift */,
+				04312B6F2BDE6998003204F3 /* Assets.xcassets */,
+				04312B712BDE6998003204F3 /* Preview Content */,
 			);
 			path = anqa;
 			sourceTree = "<group>";
 		};
-		047EE5FD2BDE42AD005E17B3 /* Preview Content */ = {
+		04312B712BDE6998003204F3 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				047EE5FE2BDE42AD005E17B3 /* Preview Assets.xcassets */,
+				04312B722BDE6998003204F3 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -72,13 +70,13 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		047EE5F22BDE42AC005E17B3 /* anqa */ = {
+		04312B672BDE6997003204F3 /* anqa */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 047EE6022BDE42AD005E17B3 /* Build configuration list for PBXNativeTarget "anqa" */;
+			buildConfigurationList = 04312B762BDE6998003204F3 /* Build configuration list for PBXNativeTarget "anqa" */;
 			buildPhases = (
-				047EE5EF2BDE42AC005E17B3 /* Sources */,
-				047EE5F02BDE42AC005E17B3 /* Frameworks */,
-				047EE5F12BDE42AC005E17B3 /* Resources */,
+				04312B642BDE6997003204F3 /* Sources */,
+				04312B652BDE6997003204F3 /* Frameworks */,
+				04312B662BDE6997003204F3 /* Resources */,
 			);
 			buildRules = (
 			);
@@ -86,25 +84,25 @@
 			);
 			name = anqa;
 			productName = anqa;
-			productReference = 047EE5F32BDE42AC005E17B3 /* anqa.app */;
+			productReference = 04312B682BDE6997003204F3 /* anqa.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		047EE5EB2BDE42AC005E17B3 /* Project object */ = {
+		04312B602BDE6997003204F3 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1540;
 				LastUpgradeCheck = 1540;
 				TargetAttributes = {
-					047EE5F22BDE42AC005E17B3 = {
+					04312B672BDE6997003204F3 = {
 						CreatedOnToolsVersion = 15.4;
 					};
 				};
 			};
-			buildConfigurationList = 047EE5EE2BDE42AC005E17B3 /* Build configuration list for PBXProject "anqa" */;
+			buildConfigurationList = 04312B632BDE6997003204F3 /* Build configuration list for PBXProject "anqa" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -112,42 +110,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 047EE5EA2BDE42AC005E17B3;
-			productRefGroup = 047EE5F42BDE42AC005E17B3 /* Products */;
+			mainGroup = 04312B5F2BDE6997003204F3;
+			productRefGroup = 04312B692BDE6997003204F3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				047EE5F22BDE42AC005E17B3 /* anqa */,
+				04312B672BDE6997003204F3 /* anqa */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		047EE5F12BDE42AC005E17B3 /* Resources */ = {
+		04312B662BDE6997003204F3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				047EE5FF2BDE42AD005E17B3 /* Preview Assets.xcassets in Resources */,
-				047EE5FB2BDE42AD005E17B3 /* Assets.xcassets in Resources */,
+				04312B732BDE6998003204F3 /* Preview Assets.xcassets in Resources */,
+				04312B702BDE6998003204F3 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		047EE5EF2BDE42AC005E17B3 /* Sources */ = {
+		04312B642BDE6997003204F3 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				047EE5F92BDE42AC005E17B3 /* ContentView.swift in Sources */,
-				047EE5F72BDE42AC005E17B3 /* anqaApp.swift in Sources */,
+				04312B6E2BDE6997003204F3 /* ContentView.swift in Sources */,
+				04312B6C2BDE6997003204F3 /* anqaApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		047EE6002BDE42AD005E17B3 /* Debug */ = {
+		04312B742BDE6998003204F3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -199,18 +197,18 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
 		};
-		047EE6012BDE42AD005E17B3 /* Release */ = {
+		04312B752BDE6998003204F3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -256,87 +254,68 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 17.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
 				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
 		};
-		047EE6032BDE42AD005E17B3 /* Debug */ = {
+		04312B772BDE6998003204F3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = anqa/anqa.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"anqa/Preview Content\"";
 				DEVELOPMENT_TEAM = BT2TPGG8FS;
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.travel";
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tahatesser.anqa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		047EE6042BDE42AD005E17B3 /* Release */ = {
+		04312B782BDE6998003204F3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
-				CODE_SIGN_ENTITLEMENTS = anqa/anqa.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 3;
+				CURRENT_PROJECT_VERSION = 4;
 				DEVELOPMENT_ASSET_PATHS = "\"anqa/Preview Content\"";
 				DEVELOPMENT_TEAM = BT2TPGG8FS;
-				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.travel";
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
-				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
-				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				IPHONEOS_DEPLOYMENT_TARGET = 17.0;
-				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
-				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
-				MACOSX_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
 				MARKETING_VERSION = 0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.tahatesser.anqa;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SDKROOT = auto;
-				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator macosx";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -346,25 +325,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		047EE5EE2BDE42AC005E17B3 /* Build configuration list for PBXProject "anqa" */ = {
+		04312B632BDE6997003204F3 /* Build configuration list for PBXProject "anqa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				047EE6002BDE42AD005E17B3 /* Debug */,
-				047EE6012BDE42AD005E17B3 /* Release */,
+				04312B742BDE6998003204F3 /* Debug */,
+				04312B752BDE6998003204F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		047EE6022BDE42AD005E17B3 /* Build configuration list for PBXNativeTarget "anqa" */ = {
+		04312B762BDE6998003204F3 /* Build configuration list for PBXNativeTarget "anqa" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				047EE6032BDE42AD005E17B3 /* Debug */,
-				047EE6042BDE42AD005E17B3 /* Release */,
+				04312B772BDE6998003204F3 /* Debug */,
+				04312B782BDE6998003204F3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 047EE5EB2BDE42AC005E17B3 /* Project object */;
+	rootObject = 04312B602BDE6997003204F3 /* Project object */;
 }
